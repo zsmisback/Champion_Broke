@@ -26,25 +26,95 @@
             <div class="col-lg-6 pt-5 pt-lg-0">
                 <div class="about-content">
                     <h3 class="font-weight-bold">Introduction</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est justo, aliquam nec tempor
-                        fermentum, commodo et libero. Quisque et rutrum arcu. Vivamus dictum tincidunt magna id
-                        euismod. Nam sollicitudin mi quis orci lobortis feugiat.</p>
+                    <p>Champion.in is a platform to fulfill every necessity required to perform a sport, under one roof. Sports are now no more considered to be an extra-curricular activity. It is rather considered a career opportunity. To make this turn into a life-changing and life-making opportunity in the world of sports, we are here to deliver the much-needed help to those athletes/sportspeople who are ready to take an initiative to come forward and make their dreams come true.</p>
                     <h3 class="font-weight-bold">How we can help</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est justo, aliquam nec tempor
-                        fermentum, commodo et libero. Quisque et rutrum arcu. Vivamus dictum tincidunt magna id
-                        euismod. Nam sollicitudin mi quis orci lobortis feugiat. Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit. Nunc est justo, aliquam nec tempor fermentum, commodo et libero.
-                        Quisque et rutrum arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc est
-                        justo, aliquam nec tempor fermentum, commodo et libero. Quisque et rutrum arcu. Vivamus dictum
-                        tincidunt magna id euismod. Nam sollicitudin mi quis orci lobortis feugiat.</p>
+                    <p>All those who have the talent but lack some of the necessities such as, the perfect infrastructure, the correct guidance, the equipment required, or even the motivation to leap, we are here to provide you with all that is required to be a successful athlete. With this, our vision is to spread globally and to make the journey of the upcoming athlete, as smooth as it could get. We are skill-developers with the amenities to let the dreams of every person interested in sports, come true. With the help of our world-class coaches, belonging and specialized in varied sports, and them having the will to train you and help you build a career, you can be rest assured that, your future ahead is bright and the opportunities for you to represent globally are coming your way very soon.
+It is a platform to make your path to success as easy as possible from our end. To save time and make optimum use of the resources available to us, the service you need can be as customized as you want.
+</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
+<section id="services" class="current">
+    <div class="services-top">
+        <div class="container bootstrap snippet">
+            <div class="row text-center">
+                <div class="col-sm-12 col-md-12 col-md-12">
+                    
+                    <h2 style="font-size: 60px;line-height: 60px;margin-bottom: 20px;font-weight: 900;">Why Champions?</h2>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-offset-1 col-sm-12 col-md-12 col-md-10">
+                    <div class="services-list">
+                        <div class="row">
+                            <div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-money highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">World-class coaches</div>
+                                        
+                                        <div>We have on-board with us plenty of coaches and trainers from all over the country, specialized in a varied number of sports. They are here to mold you into a successful athlete you dream to be in any sport of your choice</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-code highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Location</div>
+                                        
+                                        <div>Not only do we have coaches to provide you the training, but we also have you covered in terms of the appropriate location required by you to practice and go ahead. Be it in any area you want, we got you covered</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-pencil highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Medical help</div>
+                                        
+                                        <div>Any obstacles with regards to your health won’t stop you from making a career in the field of sports. There are well established and well-known Physiotherapists and Occupational therapist who can help you overcome your health issues and achieve your dream</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-bullhorn highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Sports Equipment</div>
+                                        
+                                        <div>The particular equipment you require for any sport, is available on our portal. You can easily avail it after contacting the appropriate person from the same. The details of the appropriate vendor will be provided on our platform itself</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-eye highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Sports Centre</div>
 
-
+                                        <div>Adding to all those amenities we provide, we also have a sports centre dedicated for those who wish to concentrate wholeheartedly on the sports they like and wish to pursue a career in that particular sport </div>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="container">
+<h4 class="text-center">Apart from this, the decorum and discipline to be successful and do tremendously great in this will be taught by our experienced professionals, and to make sure everything is in place, the system will be well-defined.
+The future athletes will then stand out in all the national and international sports. Champion.in is a body to guide such aspiring athletes who wish to come forward, perform well, and achieve what they are worthy of. 
+</h4>
+</div>
+<br>
 <section id="team" class="pb-5">
     <div class="container">
         <h5 class="section-title h1">OUR TEAM</h5>
