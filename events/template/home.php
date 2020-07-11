@@ -56,7 +56,7 @@ Champion.in is a platform to fulfill every necessity required to perform a sport
             <div class="row text-center">
                 <div class="col-sm-12 col-md-12 col-md-12">
                     <h2>What We Offer</h2>
-                    <h2 style="font-size: 60px;line-height: 60px;margin-bottom: 20px;font-weight: 900;">Why Champions?</h2>
+                    <h2 style="font-size: 60px;line-height: 60px;margin-bottom: 20px;font-weight: 900;">Go Champions!!!</h2>
                     <p>Our <span class="highlight">experienced</span> and <span class="highlight">dedicated</span> staff provide these services with a smile.</p>
                 </div>
             </div>

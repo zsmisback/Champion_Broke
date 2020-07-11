@@ -12,7 +12,7 @@
 				<!-- Header Contetnt -->
 				<div class="content-block">
 					<h1>Platform to boast your career</h1>
-					<p><b>List yourself</b> on India's biggest sport platform and kickstart your career<br> with India's largest sports platform.</p>
+					<p><b>Join us and many others</b> to kickstart your career on champions<br> with India's largest sports platform.</p>
 					
 					<div class="content-holder"><br>
 						<a class="nav-link text-white add-button" href="?page=signup"><i class="fa fa-plus-circle"></i> Click here to Join</a>
@@ -56,7 +56,7 @@ Champion.in is a platform to fulfill every necessity required to perform a sport
             <div class="row text-center">
                 <div class="col-sm-12 col-md-12 col-md-12">
                     <h2>What We Offer</h2>
-                    <h2 style="font-size: 60px;line-height: 60px;margin-bottom: 20px;font-weight: 900;">Why Champions?</h2>
+                    <h2 style="font-size: 60px;line-height: 60px;margin-bottom: 20px;font-weight: 900;">Make Champions</h2>
                     <p>Our <span class="highlight">experienced</span> and <span class="highlight">dedicated</span> staff provide these services with a smile.</p>
                 </div>
             </div>
