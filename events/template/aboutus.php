@@ -366,7 +366,7 @@ The future athletes will then stand out in all the national and international sp
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_06.jpg" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="images/team/survesh-sharma.jpg" alt="card image"></p>
                                     <h4 class="card-title">Dr Survesh Sharma</h4>
                                     <p class="card-text">Kickboxing,CEO</p>
                                     <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
