@@ -10,7 +10,7 @@ $username = isset( $_SESSION['username'] ) ? $_SESSION['username'] : "";
 	header("location: /sport/trainer/?page=home");exit();
 }*/
 
-if ( $page != "login" && $page != "logout" && !$username && $page != "signup" && $page != "home" && $page != "contactus" && $page != "aboutus" && $page != "faq") {
+if ( $page != "login" && $page != "logout" && !$username && $page != "signup" && $page != "home" && $page != "contactus" && $page != "aboutus" && $page != "faq" && $page != "concept") {
   login();
   exit;
 }

@@ -10,7 +10,7 @@ if(isset($_SESSION["type"]) && $_SESSION["type"] != "Trainer"){
 	header("location: /sport/infra/?page=home");exit();
 }
 
-if ( $page != "login" && $page != "logout" && !$username && $page != "signup" && $page != "home" && $page != "contactus" && $page != "aboutus" && $page != "faq") {
+if ( $page != "login" && $page != "logout" && !$username && $page != "signup" && $page != "home" && $page != "contactus" && $page != "aboutus" && $page != "faq" && $page != "concept") {
   login();
   exit;
 }
