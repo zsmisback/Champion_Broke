@@ -67,9 +67,9 @@
                                 <div class="service-block" style="visibility: visible;">
                                     <div class="ico fa fa-money highlight"></div>
                                     <div class="text-block">
-                                        <div class="name">Earn Money</div>
-                                        <div class="info">Listing for money</div>
-                                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames </div>
+                                        <div class="name">Location</div>
+                                        <div class="info">Anywhere you want</div>
+                                        <div class="text">We have plenty of options for your perfection event location. You just need to give us your event details and consider your work done.</div>
                                     </div>
                                 </div>
                             </div>
@@ -79,7 +79,7 @@
                                     <div class="text-block">
                                         <div class="name">Technical Support</div>
                                         <div class="info">Quality code that lasts</div>
-                                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames </div>
+                                        <div class="text">Our team is on toes to help you with any query or problem that comes your way</div>
                                     </div>
                                 </div>
                             </div>
@@ -87,9 +87,9 @@
                                 <div class="service-block" style="visibility: visible;">
                                     <div class="ico fa fa-pencil highlight"></div>
                                     <div class="text-block">
-                                        <div class="name">Easy Listing</div>
-                                        <div class="info">Words that tell your story</div>
-                                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames </div>
+                                        <div class="name">Sponsors</div>
+                                        <div class="info">Here for that extra support</div>
+                                        <div class="text">As we have a pool of vendors registered with us, we can provide you with the needed vendor of your choice and you can get your work done</div>
                                     </div>
                                 </div>
                             </div>
@@ -107,9 +107,9 @@
                                 <div class="service-block" style="visibility: visible;">
                                     <div class="ico fa fa-eye highlight"></div>
                                     <div class="text-block">
-                                        <div class="name">Branding/Identity</div>
-                                        <div class="info">Leave a lasting impression</div>
-                                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames </div>
+                                        <div class="name">Marketing</div>
+                                       <!-- <div class="info">Leave a lasting impression</div> -->
+                                        <div class="text">We are here to market your event and get you plenty of registrations with the help of our platform</div>
                                     </div>
                                 </div>
                             </div>
@@ -117,9 +117,9 @@
                                 <div class="service-block" style="visibility: visible;">
                                     <div class="ico fa fa-umbrella highlight"></div>
                                     <div class="text-block">
-                                        <div class="name">Strategy/Planning</div>
+                                        <div class="name">Other requirements</div>
                                         <div class="info">Thinking beyond tomorrow</div>
-                                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames </div>
+                                        <div class="text">Any requirements such as medical staff etc. will be handled by us</div>
                                     </div>
                                 </div>
                             </div>
