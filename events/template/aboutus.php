@@ -53,7 +53,7 @@ It is a platform to make your path to success as easy as possible from our end. 
                         <div class="row">
                             <div class="col-sm-6 col-md-4 col-md-4">
                                 <div class="service-block" style="visibility: visible;">
-                                    <div class="ico fa fa-money highlight"></div>
+                                    <div class="ico fa fa-globe highlight"></div>
                                     <div class="text-block">
                                         <div class="name">World-class coaches</div>
                                         
@@ -63,7 +63,7 @@ It is a platform to make your path to success as easy as possible from our end. 
                             </div>
                             <div class="col-sm-6 col-md-4 col-md-4">
                                 <div class="service-block" style="visibility: visible;">
-                                    <div class="ico fa fa-code highlight"></div>
+                                    <div class="ico fa fa-map-marker highlight"></div>
                                     <div class="text-block">
                                         <div class="name">Location</div>
                                         
@@ -73,7 +73,7 @@ It is a platform to make your path to success as easy as possible from our end. 
                             </div>
                             <div class="col-sm-6 col-md-4 col-md-4">
                                 <div class="service-block" style="visibility: visible;">
-                                    <div class="ico fa fa-pencil highlight"></div>
+                                    <div class="ico fa fa-medkit highlight"></div>
                                     <div class="text-block">
                                         <div class="name">Medical help</div>
                                         
@@ -83,7 +83,7 @@ It is a platform to make your path to success as easy as possible from our end. 
                             </div>
                             <div class="col-sm-6 col-md-4 col-md-4">
                                 <div class="service-block" style="visibility: visible;">
-                                    <div class="ico fa fa-bullhorn highlight"></div>
+                                    <div class="ico fa fa-futbol-o highlight"></div>
                                     <div class="text-block">
                                         <div class="name">Sports Equipment</div>
                                         
@@ -93,7 +93,7 @@ It is a platform to make your path to success as easy as possible from our end. 
                             </div>
                             <div class="col-sm-6 col-md-4 col-md-4">
                                 <div class="service-block" style="visibility: visible;">
-                                    <div class="ico fa fa-eye highlight"></div>
+                                    <div class="ico fa fa-building-o highlight"></div>
                                     <div class="text-block">
                                         <div class="name">Sports Centre</div>
 
@@ -101,6 +101,57 @@ It is a platform to make your path to success as easy as possible from our end. 
                                     </div>
                                 </div>
                             </div>
+						    <div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-gavel highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Legal Procedures</div>
+
+                                        <div>We are here to support you with regards to any legal assistance required for your upcoming future in sports.</div>
+                                    </div>
+                                </div>
+                            </div>
+						    <div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-eye highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Make in India</div>
+
+                                        <div>Champion.in is in total support with this initiative. Our contribution to this is by launching an application of our own for the ease and convenience of people interested in sports and also launching equipment required for a particular sport</div>
+                                    </div>
+                                </div>
+                            </div>
+							<div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-money highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Employment Generation</div>
+
+                                        <div>With such a huge vision comes responsibilities and to handle them we need experts on board with us. We are open to employing people for varied and diverse roles at Champion.in</div>
+                                    </div>
+                                </div>
+                            </div>
+							<div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-shield highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Security</div>
+
+                                        <div>All things considered, security of everybody is our top most priority. We assure you that this will be taken care from our end thoroughly, without any doubt</div>
+                                    </div>
+                                </div>
+                            </div>
+							<div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-venus highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Women Empowerment</div>
+
+                                        <div> There are still women who are really talented and have the calibre to grow in this field, but they lack the proper training and motivation required. We are here to extend a helping hand and to promote the message of women empowerment by taking various initiatives for the same</div>
+                                    </div>
+                                </div>
+                            </div>
+							
                            
                         </div>
                     </div>
