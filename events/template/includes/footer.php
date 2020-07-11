@@ -51,8 +51,22 @@
         </div>
       </div>
 	 
-	 
-	  
+	 <div class="col-lg-2 col-md-7">
+	          <div class="block">
+          <h4>Contact Number</h4>
+		  <ul>
+		  <li>(+91)7021980307 - <br>(+91)9930221715</li>
+		  </ul>
+		  </div>
+	  </div>
+	  	 <div class="col-lg-2 col-md-7">
+	          <div class="block">
+          <h4>Address</h4>
+		  <ul>
+		  <li>IP 4-5, RIICO Growth Center, Phase II, Aburoad, Rajasthan 307026</li>
+		  </ul>
+		  </div>
+	  </div>
       <!-- Promotion 
       <div class="col-lg-4 col-md-7">
         App promotion

@@ -10,7 +10,7 @@ if(isset($_SESSION["type"]) && $_SESSION["type"] != "Infra"){
 	header("location: /sport/trainer/?page=home");exit();
 }
 
-if ( $page != "login" && $page != "logout" && !$username && $page != "signup" && $page != "home" && $page != "contactus" && $page != "aboutus" && $page != "faq") {
+if ( $page != "login" && $page != "logout" && !$username && $page != "signup" && $page != "home" && $page != "contactus" && $page != "aboutus" && $page != "faq" && $page != "concept") {
   login();
   exit;
 }
@@ -45,6 +45,9 @@ switch ( $page ) {
 	case 'faq':
 	   faq();
 	  break; 
+	case 'concept':
+	   concept();
+	  break;   
 	case 'logout':	
 	  logout();
 	  break;  
@@ -52,10 +55,29 @@ switch ( $page ) {
 	  mainpage();		
 }
 
+function concept(){
+	include(TEMPLATE_PATH."howitworks.php");			
+}
+
 function aboutus(){
 	include(TEMPLATE_PATH."aboutus.php");			
 }
+
 function contactus(){
+	
+	$result["redirect_to"] = "?page=home";
+	$random_id = generateRandomString();
+	if($_SERVER['REQUEST_METHOD'] == 'POST')
+	{
+		if($_POST['vpcode'] == "champion")
+		{
+		 include("savedata.php");
+		}
+		else
+		{
+			$error_mysql = "Wrong Vpcode";
+		}
+	}
 	include(TEMPLATE_PATH."contactus.php");			
 }
 
@@ -107,11 +129,11 @@ function signup()
 function dashboard()
 {	
 	$checkflag = 0; 
-	
+	 
 	include("getdata_single.php");
 	$response = singletable( "infra_details", $where = "WHERE randomid='".$_SESSION['uid']."'", $param = "*" );	
 		
-	if(isset($response["error"])){ $checkflag = 1;}	
+	if(isset($response["error"])){$checkflag = 1;}	
 	else{		
 		$response["infra_details|sports"] = explode(", ",$response["infra_details|sports"]);
 		
@@ -128,7 +150,6 @@ function dashboard()
 		
 			if($_SERVER["REQUEST_METHOD"] == "POST")
 			{
-				
 				include("savedata.php");
 			}	
 			

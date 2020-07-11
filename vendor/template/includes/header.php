@@ -6,10 +6,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Champion - Sports Vendors</title>
+  <title>Champion - Sports Professional</title>
   
   <!-- FAVICON -->
-  <link href="img/favicon.png" rel="shortcut icon">
+  <link rel="shortcut icon" type="image/png" href="../images/favicon/logo.png" >
   <!-- PLUGINS CSS STYLE -->
   <!-- <link href="plugins/jquery-ui/jquery-ui.min.css" rel="stylesheet"> -->
   <!-- Bootstrap -->
@@ -45,8 +45,8 @@
 		<div class="row">
 			<div class="col-md-12">
 				<nav class="navbar navbar-expand-lg navbar-light navigation">
-					<a class="navbar-brand" href="index.html">
-						<img src="images/logo.png" alt="">
+					<a class="navbar-brand" href="index.php?page=home">
+						<img src="../images/home/logo.png" width="200px" height="40" class="d-inline-block align-top" alt="">
 					</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -63,23 +63,43 @@
 							<li class="nav-item">
 								<a class="nav-link" href="?page=concept">How it works?</a>
 							</li>
-							<li class="nav-item">
+						<!--	<li class="nav-item">
 								<a class="nav-link" href="?page=faq">FAQ's</a>
-							</li>
+							</li>-->
 							<li class="nav-item">
 								<a class="nav-link" href="?page=contactus">Contact Us</a>
+							</li>
+							
+							
+							<li class="nav-item dropdown dropdown-slide">
+								<a class="nav-link dropdown-toggle" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									Listing <span><i class="fa fa-angle-down"></i></span>
+								</a>
+								<!-- Dropdown list -->
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="../index.php?page=home">Home</a>
+									<?php if(!isset($_SESSION['uid'])){
+								echo '
+									<a class="dropdown-item" href="../infra/index.php?page=home">Infrastructure</a>
+									<a class="dropdown-item" href="../trainer/index.php?page=home">Trainers</a>
+									<a class="dropdown-item" href="../vendor/index.php?page=home">Vendors</a>';
+									}
+									?>
+									<a class="dropdown-item" href="../events/index.php?page=home">Events</a>
+								</div>
 							</li>
 							
 						</ul>
 						<ul class="navbar-nav ml-auto mt-10">
 							<li class="nav-item">
 								<?php if(!isset($_SESSION['uid'])){
-								echo '<a class="nav-link login-button" href="?page=login">Login</a>';
+								echo '  
+								      <a class="nav-link login-button" href="?page=login">Login</a>';
 								}else{echo '<a class="nav-link login-button" href="?page=logout">Logout</a>';}?>
 							</li>
 							<?php if(!isset($_SESSION['uid'])){echo'
 							<li class="nav-item">
-								<a class="nav-link text-white add-button" href="?page=signup"><i class="fa fa-plus-circle"></i> Register as proffesional</a>
+								<a class="nav-link text-white add-button" href="?page=signup"><i class="fa fa-plus-circle"></i> Register as vendor</a>
 							</li>';}else{//echo '<li class="nav-item"><a class="nav-link text-white add-button" href="?page=login"><i class="fa fa-user-circle"></i> View Profile</a></li>';
 							}?>							
 						</ul>

@@ -151,6 +151,26 @@ It is a platform to make your path to success as easy as possible from our end. 
                                     </div>
                                 </div>
                             </div>
+							<div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-book highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Accounting Services</div>
+
+                                        <div>Assistance with loan paperwork to increase approval chances.We also automatically record your financial transactions which you can check or query about as per your choice. </div>
+                                    </div>
+                                </div>
+                            </div>
+							<div class="col-sm-6 col-md-4 col-md-4">
+                                <div class="service-block" style="visibility: visible;">
+                                    <div class="ico fa fa-credit-card-alt highlight"></div>
+                                    <div class="text-block">
+                                        <div class="name">Easy Loans</div>
+
+                                        <div>Free Annual Tax Filing Support and Finance management for a secured future.</div>
+                                    </div>
+                                </div>
+                            </div>
 							
                            
                         </div>
@@ -161,8 +181,10 @@ It is a platform to make your path to success as easy as possible from our end. 
     </div>
 </section>
 <div class="container">
-<h4 class="text-center">Apart from this, the decorum and discipline to be successful and do tremendously great in this will be taught by our experienced professionals, and to make sure everything is in place, the system will be well-defined.
+<h4 class="text-center">Apart from this, the decorum and discipline to be successful and do tremendously great in this will be taught by our experienced professionals, and to make sure everything is in place, the system will be well-defined.<br><br>
 The future athletes will then stand out in all the national and international sports. Champion.in is a body to guide such aspiring athletes who wish to come forward, perform well, and achieve what they are worthy of. 
+<br>
+ 
 </h4>
 </div>
 <br>
@@ -180,7 +202,7 @@ The future athletes will then stand out in all the national and international sp
                                     <p><img class=" img-fluid" src="images/team/uttam-prakash-agarwal.jpg" alt="card image"></p>
                                     <h4 class="card-title">CA Uttam Agarwal</h4>
                                     <p class="card-text">President</p>
-                                    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                <!--    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -228,7 +250,7 @@ The future athletes will then stand out in all the national and international sp
                                     <p><img class=" img-fluid" src="images/team/riya-agarwal.jpg" alt="card image"></p>
                                     <h4 class="card-title">CA Riya Agarwal</h4>
                                     <p class="card-text">CFO</p>
-                                    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                  <!--  <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -276,7 +298,7 @@ The future athletes will then stand out in all the national and international sp
                                     <p><img class=" img-fluid" src="images/team/resheil-agarwal.jpg" alt="card image"></p>
                                     <h4 class="card-title">Er Resheil Agarwal</h4>
                                     <p class="card-text">Co-Founder,CEO</p>
-                                    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                <!--    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -324,7 +346,7 @@ The future athletes will then stand out in all the national and international sp
                                     <p><img class=" img-fluid" src="images/team/neha-dhanuka.jpg" alt="card image"></p>
                                     <h4 class="card-title">CA Neha Dhanuka</h4>
                                     <p class="card-text">HO</p>
-                                    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                  <!--  <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -372,7 +394,7 @@ The future athletes will then stand out in all the national and international sp
                                     <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_05.png" alt="card image"></p>
                                     <h4 class="card-title">Er Mesheil Agarwal</h4>
                                     <p class="card-text">Co-Founder,COO</p>
-                                    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                 <!--   <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -420,7 +442,7 @@ The future athletes will then stand out in all the national and international sp
                                     <p><img class=" img-fluid" src="images/team/survesh-sharma.jpg" alt="card image"></p>
                                     <h4 class="card-title">Dr Survesh Sharma</h4>
                                     <p class="card-text">Kickboxing,CEO</p>
-                                    <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                               <!--     <a href="https://www.fiverr.com/share/qb8D02" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -462,8 +484,13 @@ The future athletes will then stand out in all the national and international sp
         </div>
     </div>
 </section>
+<div class="container">
+<h4 class="text-center">In order to serve you with all this,our wonderful and talented team of hard working individuals are on their toes at all times and ensure that our sports enthusiast/athletes will have a great time doing what they love.
+<br><br><br><br>
+</div>
+</h4>
 
-<section class="section bg-gray">
+<!--<section class="section bg-gray">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-sm-6 my-lg-0 my-3">
@@ -497,5 +524,5 @@ The future athletes will then stand out in all the national and international sp
             </div>
         </div>
     </div>
-</section>
+</section>-->
 <?php include("includes/footer.php"); ?>
