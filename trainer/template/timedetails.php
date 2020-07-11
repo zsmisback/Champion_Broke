@@ -19,11 +19,11 @@
                    
 							<div class="col-md-6 form-group required">
 							<label for="name" class="control-label">Height(in cm)</label>
-							<input type="number" id="name" class="form-control py-2" name="trainer_charges|height" value = "<?php echo $height; ?>">
+							<input type="number" id="name" class="form-control py-2" name="trainer_charges|height">
 							</div>
 							<div class="col-md-6 form-group required">
 							<label for="name" class="control-label">Weight(in kg)</label>
-							<input type="number" id="name" class="form-control py-2" name="trainer_charges|weight" value = "<?php echo $weight; ?>">
+							<input type="number" id="name" class="form-control py-2" name="trainer_charges|weight">
 							</div>
 							</div>
 							<div class="form-group">
