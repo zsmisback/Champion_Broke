@@ -68,14 +68,17 @@ function contactus(){
 	$random_id = generateRandomString();
 	if($_SERVER['REQUEST_METHOD'] == 'POST')
 	{
-		if($_POST['vpcode'] == "champion")
-		{
-		 include("savedata.php");
-		}
-		else
-		{
+		
+			if($_POST['vpcode'] == "champion")
+			{
+			include("savedata.php");
+			}
+			else
+			{
 			$error_mysql = "Wrong Vpcode";
-		}
+			}
+		
+		
 	}
 	include(TEMPLATE_PATH."contactus.php");			
 }

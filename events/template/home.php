@@ -12,7 +12,7 @@
 				<!-- Header Contetnt -->
 				<div class="content-block">
 					<h1>Create and manage your events</h1>
-					<p><b>Create/manage/advertise</b> with us and get your event popularized <br>  around the nation.</p>
+					<p><b>Create/Manage/Advertise</b> with us and get your event popularized <br>  around the nation.</p>
 					
 					<div class="content-holder"><br>
 						<a class="nav-link text-white add-button" href="?page=signup"><i class="fa fa-plus-circle"></i> Click here to Join</a>
@@ -32,8 +32,9 @@
 		    <h1 class='text-success'>Welcome!</h1>
 		    <h2>Know More About Us</h2>
 		    <hr>
-		    <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore etae magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-		    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+Champion.in is a platform to fulfill every necessity required to perform a sport, under one roof. </p>
+		    <p>All those who have the talent but lack some of the necessities such as, the perfect infrastructure, the correct guidance, the equipment required, or even the motivation to leap, we are here to provide you with all that is required to be a successful athlete. It is a platform to make your path to success as easy as possible from our end.</p>
 		    <a href="?page=aboutus"><button type="button" class="btn btn-success">Let's Know More</button></a>
 
 		</div>

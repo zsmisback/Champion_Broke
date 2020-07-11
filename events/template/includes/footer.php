@@ -12,9 +12,7 @@
           <!-- footer logo -->
           <!--<img src="images/logo.png" alt="">-->
           <!-- description -->
-          <p class="alt-color">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-            laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p class="alt-color">To build a platform for the Athletes - Empowering Indian talents by developing skills, utilizing experiences and other sports resources under one roof.</p>
         </div>
       </div>
       <!-- Link list -->
@@ -31,25 +29,30 @@
         </div>
       </div>
       <!-- Link list -->
+	  <div class="col-lg-2 col-md-3 offset-md-1 offset-lg-0">
+        <div class="block">
+          <h4>Quick Links</h4>
+          <ul>
+		   <li><a href="../index.php?page=home">Home</a></li>
 	  <?php
       
 	 if(!isset($_SESSION['uid']) || !$_SESSION['uid'])
 	 {
 	   echo'
-	  <div class="col-lg-2 col-md-3 offset-md-1 offset-lg-0">
-        <div class="block">
-          <h4>Quick Links</h4>
-          <ul>
+	  
             <li><a href="../infra/index.php?page=home">Infrastructure</a></li>
             <li><a href="../trainer/index.php?page=home">Trainers</a></li>
-            <li><a href="../vendor/index.php?page=home">Vendors</a></li>
+            <li><a href="../vendor/index.php?page=home">Vendors</a></li>';
+			}
+			
+		?>	
             <li><a href="../events/index.php?page=home">Events</a></li>
            </ul>
         </div>
-      </div>';
-	 }
+      </div>
 	 
-	  ?>
+	 
+	  
       <!-- Promotion 
       <div class="col-lg-4 col-md-7">
         App promotion
